@@ -1,5 +1,11 @@
 export const data = {
   headerLink: ["Home", "About", "Work", "Services", "Blog", "Contact"],
+  heroAssets: [
+    {
+      title: "We <span>Create Digital Experiences</span> that matter",
+      image: "/images/hero.png"
+    },
+  ],
   services: [
     {
       name: "Strategy",

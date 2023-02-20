@@ -1,7 +1,8 @@
-import './scss/Main.scss'
-import Home from "./components/Home/Index.jsx";
+import './scss/Main.scss';
+import Home from "./components/home/Index.jsx";
 
 function App() {
+
   return (
     <Home />
   )
