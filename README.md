@@ -33,5 +33,5 @@ make sure you have the node and npm installed on your machine
 #### run npm install and then npm start
 ```bash
 npm install
-npm start
+npm run dev
 ```
