@@ -30,7 +30,7 @@
 
 ### Usage
 make sure you have the node and npm installed on your machine
-#### run npm install and then npm start
+#### run npm install and then npm run dev
 ```bash
 npm install
 npm run dev
